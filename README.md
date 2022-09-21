@@ -1,2 +1,2 @@
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.competeralexandercharles/peteralexandercharles/blob/master/devcard.svg" width="400" alt="Peter Alexander Charles Oliver's Dev Card"/></a>
+![](https://raw.githubusercontent.com/peteralexandercharles/peteralexandercharles/32e8eb0faafb497bece1798c99a9602db8c4cb54/devcard.svg)
 
