@@ -1,2 +1,1 @@
-![](https://raw.githubusercontent.com/peteralexandercharles/peteralexandercharles/32e8eb0faafb497bece1798c99a9602db8c4cb54/devcard.svg)
-
+<a href="https://app.daily.dev/peteroliver"><img src="https://api.daily.dev/devcards/6b1e2053a66540249fb95c69deab00b6.png?r=pvn" alt="Peter Oliver's Dev Card"/></a>
